@@ -48,7 +48,7 @@
           <!-- Estructura del formulario -->
 
           
-            <legend class="center" id="titulo">Bienvenido a Request</legend>
+            <legend class="center" id="titulo">Bienvenido a Request v2</legend>
 
             <!-- Caja de texto para usuario -->
             <label class="sr-only" for="user">Usuario</label>
